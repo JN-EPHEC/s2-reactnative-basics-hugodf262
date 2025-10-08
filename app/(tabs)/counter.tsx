@@ -8,6 +8,7 @@ export default function HomeScreen() {
   // Function to increment the count.
   const incrementCount = () => {
     // Write your logic here to increment the count
+
   }
 
   return (
